@@ -29,17 +29,17 @@
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-### Models
+/*### Models
 
-[![](https://user-images.githubusercontent.com/53148314/124398958-23d8c480-dd21-11eb-9eef-f3a0ab7740f3.png)](https://user-images.githubusercontent.com/53148314/124398958-23d8c480-dd21-11eb-9eef-f3a0ab7740f3.png)
+//[![](https://user-images.githubusercontent.com/53148314/124398958-23d8c480-dd21-11eb-9eef-f3a0ab7740f3.png)](https://user-images.githubusercontent.com/53148314/124398958-//23d8c480-dd21-11eb-9eef-f3a0ab7740f3.png)
 
-## Usage
+//## Usage
 
-### API Documentation
+//### API Documentation
 
-Please refer to the swagger documentation.
+//Please refer to the swagger documentation.
 
-[![API Documentation](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://github.com/EsraOzdogan/Northwind/blob/master/APIDocumentation.md)
+//[![API Documentation](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)]//(https://github.com/EsraOzdogan/Northwind/blob/master/APIDocumentation.md)
 
 ## Contributing
 
