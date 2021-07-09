@@ -9,7 +9,6 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/EsraOzdogan/Northwind"><img src="https://user-images.githubusercontent.com/53148314/117860940-8a011800-b299-11eb-82ee-54fa0c7a9c3a.png" height="125"></a>
   <h3 align="center">Northwind Backend</h3>
   <p align="center">
     N-Layer Architecture northwind project with Java.
