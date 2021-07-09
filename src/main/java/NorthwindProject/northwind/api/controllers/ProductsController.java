@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import NorthwindProject.northwind.business.abstracts.ProductService;
 import NorthwindProject.northwind.entities.concretes.Product;
 
-@RestController  //sen REstContrller'sin dedik
+@RestController  //sen REstContrller'sin dedik yani android ve iosda karsilar
 @RequestMapping("/api/products")            //products icin controller dedik requestcontroller ile
 public class ProductsController {
 	
@@ -19,12 +19,12 @@ public class ProductsController {
 	
 	
 	@Autowired
-	public ProductsController(ProductService productService) {  //IoC gibi katmanlarý bagliyorPorductService-ProductManager ve -ProductManager ile ProductDao kullaniliyor
+	public ProductsController(ProductService productService) {  //IoC gibi katmanlarï¿½ bagliyorPorductService-ProductManager ve -ProductManager ile ProductDao kullaniliyor
 		super();
 		this.productService = productService;
 	}
 	
-	@GetMapping("/getall")   //GetMapping--veri istemek icin,getall-tüm verileri istemek icin
+	@GetMapping("/getall")   //GetMapping--veri istemek icin,getall-tï¿½m verileri istemek icin
 	public List<Product> getAll(){
 		return this.productService.getAll();
 	}
